@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.dowindex.cn/sitemap.xml
